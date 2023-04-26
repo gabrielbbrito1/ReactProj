@@ -1,3 +1,8 @@
+# Projeto para estudo de React.js
+
+link do deploy: https://post-cards.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
